@@ -1,8 +1,8 @@
-#Dan's Prusa i3 Variant
+# Dan's Prusa i3 Variant
+
+I use this repository to store all the information I need on my 3D printer, an aluminum [Prusa i3](http://reprap.org/wiki/Prusa_i3), modified from a kit sold by *XS's Ink*, that I bought off Craigslist from a guy who had gave up at getting it working.
 
 ![My printer](images/i3.jpg)
-
-The information I use to maintain & repair my Reprap 3D printer.
 
  - Model files to print the physical body.
  - Firmware files for flashing an Arduino (in my case, a [Sanguinololu 1.3a](https://github.com/mosfet/Sanguinololu/tree/master/rev1.3a))
