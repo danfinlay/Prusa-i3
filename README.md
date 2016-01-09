@@ -44,10 +44,10 @@ Set current z to 0: G92 Z0
 ```javascript
 for (var i = 0.2; i < 0.4; i+=0.08) { console.log(i); }
 ```
-0.2
-0.28
-0.36
-0.44
+ - 0.2
+ - 0.28
+ - 0.36
+ - 0.44
 
 ### Wade's Geared Extruder details:
 
