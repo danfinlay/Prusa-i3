@@ -1,8 +1,9 @@
 #Dan's Prusa i3 Variant
 
+![My printer](images/i3.jpg)
+
 The information I use to maintain & repair my Reprap 3D printer.
 
-Includes
  - Model files to print the physical body.
  - Firmware files for flashing an Arduino (in my case, a [Sanguinololu 1.3a](https://github.com/mosfet/Sanguinololu/tree/master/rev1.3a))
  - Calibration files for use with [Slic3r](http://slic3r.org/).
