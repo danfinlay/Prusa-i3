@@ -1,9 +1,23 @@
 #Dan's Prusa i3 Variant
-##An aluminum-framed 200mm^3 3D printer using GT2 belts.
 
-Includes slic3r calibration file, to easily let another computer print to this printer!
+The information I use to maintain & repair my Reprap 3D printer.
 
-Eventually hoping to add my OctoPrint server as a chef recipe, to allow wireless 3d printing as well!
+Includes
+ - Model files to print the physical body.
+ - Firmware files for flashing an Arduino (in my case, a [Sanguinololu 1.3a](https://github.com/mosfet/Sanguinololu/tree/master/rev1.3a))
+ - Calibration files for use with [Slic3r](http://slic3r.org/).
+ - Eventually I hope to add details on my OctoPrint server, maybe a Chef recipe. For now I have an SD image I clone, which is a bit bloated for version control.
+
+## Physical Information
+
+Size: 200mm cubed
+Type: Aluminum framed body
+Belt type: GT2 (2mm toothed robotics belt).
+Extruder:  [Greg's Wade Extruder](http://www.thingiverse.com/thing:65939).
+Nozzle: 0.5mm [Budaschnozzle 2.0](https://www.lulzbot.com/support/budaschnozzle-20) with 1.75mm PTFE tube modification for printing 1.75mm filament (I use PLA).
+Bed leveling system: 3-point leveling, generally adjusted during the skirt-printing that occurs before every print when using the included Slic3r calibration bundle.
+
+## Beware below!
 
 Below is a pasted and only minorly cleaned up text file that I used to keep notes while I was originally calibrating the machine.
 
