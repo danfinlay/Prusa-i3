@@ -11,12 +11,12 @@ I use this repository to store all the information I need on my 3D printer, an a
 
 ## Physical Information
 
-Size: 200mm cubed
-Type: Aluminum framed body
-Belt type: GT2 (2mm toothed robotics belt).
-Extruder:  [Greg's Wade Extruder](http://www.thingiverse.com/thing:65939).
-Nozzle: 0.5mm [Budaschnozzle 2.0](https://www.lulzbot.com/support/budaschnozzle-20) with 1.75mm PTFE tube modification for printing 1.75mm filament (I use PLA).
-Bed leveling system: 3-point leveling, generally adjusted during the skirt-printing that occurs before every print when using the included Slic3r calibration bundle.
+ - Size: 200mm cubed
+ - Type: Aluminum framed body
+ - Belt type: GT2 (2mm toothed robotics belt).
+ - Extruder:  [Greg's Wade Extruder](http://www.thingiverse.com/thing:65939).
+ - Nozzle: 0.5mm [Budaschnozzle 2.0](https://www.lulzbot.com/support/budaschnozzle-20) with 1.75mm PTFE tube modification for printing 1.75mm filament (I use PLA).
+ - Bed leveling system: 3-point leveling, generally adjusted during the skirt-printing that occurs before every print when using the included Slic3r calibration bundle.
 
 ## Beware below!
 
